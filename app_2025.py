@@ -565,5 +565,4 @@ st.markdown("---")
 st.caption(
     "📊 Built with Streamlit + Plotly · Data: EDGAR 2025 release · "
     "European Commission Joint Research Centre · "
-    "Created for UC3DVS10 Data Visualisation coursework."
 )
